@@ -44,8 +44,7 @@ python main.py
 
 ## Demo Video
 
-[Watch the demo video on YouTube](https://youtu.be/C-eigqk1rUQ)
-[![GitHub README Generator Demo](https://img.youtube.com/vi/C-eigqk1rUQ/0.jpg)](https://youtu.be/C-eigqk1rUQ)
+<a href="https://youtu.be/C-eigqk1rUQ" target="_blank">Watch the demo video on YouTube</a>
 
 
 ## Author
