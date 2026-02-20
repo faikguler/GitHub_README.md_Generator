@@ -33,6 +33,7 @@ source venv/bin/activate
 # Clone the repository
 
 git clone https://github.com/faikguler/GitHub_README.md_Generator.git
+
 cd GitHub_README.md_Generator
 
 # No additional installation steps required
