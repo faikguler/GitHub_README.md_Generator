@@ -1,4 +1,4 @@
-from utils import print_step
+from utils import print_step, print_info
 
 def check_empty(text):
     if not text:
@@ -72,7 +72,7 @@ def get_contact_info():
     return ask_question("Enter contact information (email or GitHub username)", check_empty)
 
 def ask_all_questions():
-    print("COLLECTING PROJECT INFORMATION")
+    print_info(" COLLECTING PROJECT INFORMATION")
     
     answers = {
         'title': get_project_title(),
@@ -84,6 +84,6 @@ def ask_all_questions():
         'contact': get_contact_info()
     }
     
-    print("✅ All information collected!")
+    print_info("✅ All information collected!")
     
     return answers

@@ -1,4 +1,5 @@
 import os
+from utils import print_success
 
 def generate_readme(answers):
     print("\nGenerating README.md...")
@@ -19,4 +20,5 @@ def generate_readme(answers):
     with open(filepath, 'w', encoding='utf-8') as f:
         f.write(content)
     
+    print_success(filepath)
     return filepath
