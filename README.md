@@ -44,8 +44,7 @@ python main.py
 
 ## Demo Video
 
-<a href="https://youtu.be/C-eigqk1rUQ" target="_blank">Watch the demo video on YouTube</a>
-
+<a href="#" onclick="window.open('https://youtu.be/C-eigqk1rUQ', '_blank'); return false;">Watch the demo video on YouTube</a>
 
 ## Author
 
