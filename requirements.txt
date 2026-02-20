@@ -1,0 +1,1 @@
+The project has no dependencies. No additional packages required. This tool uses only Python standard library.
